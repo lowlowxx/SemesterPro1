@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyScript", "AssemblyScript.csproj", "{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests.csproj", "{BB4A0F97-EA64-3870-0113-B77654946D8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB4A0F97-EA64-3870-0113-B77654946D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB4A0F97-EA64-3870-0113-B77654946D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB4A0F97-EA64-3870-0113-B77654946D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB4A0F97-EA64-3870-0113-B77654946D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
