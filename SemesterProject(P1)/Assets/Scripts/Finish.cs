@@ -1,4 +1,3 @@
-
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -6,13 +5,12 @@ using UnityEngine.SceneManagement;
 
 public class Finish : MonoBehaviour
 {
-
     public ScoreManager scoreManager;
     public WriterStorage storage;
+    public Timer timer;
 
     private AudioSource finishSound;
     private bool levelCompleted = false;
-
 
     void Start()
     {
@@ -43,21 +41,16 @@ public class Finish : MonoBehaviour
 
     void SaveScore()
     {
-        
         if (!levelCompleted)
         {
             int Temp1 = 3;
             string Temp2 = Temp1.ToString();
             storage.AddNewScore("80");
         }
-
-
     }
 
-
-    private void CompleteLevel()
+    public void CompleteLevel()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
-
 }

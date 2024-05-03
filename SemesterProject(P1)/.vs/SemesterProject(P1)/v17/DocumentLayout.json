@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\UnityProjects\\SemesterProject(P1)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|c:\\unityprojects\\semesterproject(p1)\\assets\\scripts\\writerstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|solutionrelative:assets\\scripts\\writerstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|c:\\unityprojects\\semesterproject(p1)\\assets\\scripts\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|C:\\UnityProjects\\SemesterProject(P1)\\assets\\scripts\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|solutionrelative:assets\\scripts\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\ReadersStorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|solutionrelative:Assets\\Scripts\\ReadersStorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB4A0F97-EA64-3870-0113-B77654946D8F}|Tests.csproj|c:\\unityprojects\\semesterproject(p1)\\assets\\tests\\testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4A0F97-EA64-3870-0113-B77654946D8F}|Tests.csproj|solutionrelative:assets\\tests\\testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|C:\\UnityProjects\\SemesterProject(P1)\\assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|solutionrelative:assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|C:\\UnityProjects\\SemesterProject(P1)\\assets\\scripts\\keybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|solutionrelative:assets\\scripts\\keybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|C:\\UnityProjects\\SemesterProject(P1)\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|C:\\UnityProjects\\SemesterProject(P1)\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|C:\\UnityProjects\\SemesterProject(P1)\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|C:\\UnityProjects\\SemesterProject(P1)\\assets\\scripts\\readersstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|solutionrelative:assets\\scripts\\readersstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|C:\\UnityProjects\\SemesterProject(P1)\\assets\\scripts\\writerstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|solutionrelative:assets\\scripts\\writerstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\NameSaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|C:\\UnityProjects\\SemesterProject(P1)\\assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|solutionrelative:assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|C:\\UnityProjects\\SemesterProject(P1)\\assets\\scripts\\keybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|solutionrelative:assets\\scripts\\keybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|C:\\UnityProjects\\SemesterProject(P1)\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|C:\\UnityProjects\\SemesterProject(P1)\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,20 +67,12 @@
       "RelativeMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|solutionrelative:assets\\scripts\\waypointfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|C:\\UnityProjects\\SemesterProject(P1)\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|C:\\UnityProjects\\SemesterProject(P1)\\assets\\scripts\\quit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|solutionrelative:assets\\scripts\\quit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|C:\\UnityProjects\\SemesterProject(P1)\\assets\\scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|solutionrelative:assets\\scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|C:\\UnityProjects\\SemesterProject(P1)\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5768C6D6-6BE0-732C-9E0A-3605A8D58CCF}|AssemblyScript.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,45 +90,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WriterStorage.cs",
-              "DocumentMoniker": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\WriterStorage.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\WriterStorage.cs",
-              "ToolTip": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\WriterStorage.cs",
-              "RelativeToolTip": "Assets\\Scripts\\WriterStorage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T18:11:29.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Finish.cs",
-              "DocumentMoniker": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\Finish.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Finish.cs",
-              "ToolTip": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\Finish.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Finish.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Title": "Testing.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Tests\\Testing.cs",
+              "RelativeDocumentMoniker": "Assets\\Tests\\Testing.cs",
+              "ToolTip": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Tests\\Testing.cs",
+              "RelativeToolTip": "Assets\\Tests\\Testing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T17:20:18.441Z",
+              "WhenOpened": "2024-04-30T22:19:12.169Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReadersStorage.cs",
-              "DocumentMoniker": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\ReadersStorage.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ReadersStorage.cs",
-              "ToolTip": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\ReadersStorage.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ReadersStorage.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T01:04:50.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "ScoreManager.cs",
               "DocumentMoniker": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\ScoreManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
@@ -132,23 +111,51 @@
               "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T20:59:46.109Z"
+              "WhenOpened": "2024-04-18T20:59:46.109Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "KeyBehavior.cs",
               "DocumentMoniker": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\KeyBehavior.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\KeyBehavior.cs",
               "ToolTip": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\KeyBehavior.cs",
               "RelativeToolTip": "Assets\\Scripts\\KeyBehavior.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T18:45:55.915Z"
+              "WhenOpened": "2024-04-05T18:45:55.915Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAowAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T16:49:45.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Finish.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\Finish.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finish.cs",
+              "ToolTip": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\Finish.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finish.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:20:18.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "PauseMenu.cs",
               "DocumentMoniker": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\PauseMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenu.cs",
@@ -160,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "DoorBehavior.cs",
               "DocumentMoniker": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\DoorBehavior.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DoorBehavior.cs",
@@ -172,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Timer.cs",
               "DocumentMoniker": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\Timer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Timer.cs",
@@ -180,11 +187,48 @@
               "RelativeToolTip": "Assets\\Scripts\\Timer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T17:28:15.157Z"
+              "WhenOpened": "2024-04-18T17:28:15.157Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T16:49:50.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReadersStorage.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\ReadersStorage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ReadersStorage.cs",
+              "ToolTip": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\ReadersStorage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ReadersStorage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T01:04:50.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WriterStorage.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\WriterStorage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WriterStorage.cs",
+              "ToolTip": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\WriterStorage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WriterStorage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:11:29.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "NameSaver.cs",
               "DocumentMoniker": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\NameSaver.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NameSaver.cs",
@@ -196,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
@@ -208,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "PlayerLife.cs",
               "DocumentMoniker": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\PlayerLife.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerLife.cs",
@@ -220,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "StickyPlatform.cs",
               "DocumentMoniker": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\StickyPlatform.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\StickyPlatform.cs",
@@ -232,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "WaypointFollower.cs",
               "DocumentMoniker": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\WaypointFollower.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WaypointFollower.cs",
@@ -244,19 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
-              "ToolTip": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBQAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T16:49:45.354Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Quit.cs",
               "DocumentMoniker": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\Quit.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Quit.cs",
@@ -268,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Rotate.cs",
               "DocumentMoniker": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\Rotate.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Rotate.cs",
@@ -277,18 +309,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T19:48:04.342Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CameraController.cs",
-              "DocumentMoniker": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\CameraController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
-              "ToolTip": "C:\\UnityProjects\\SemesterProject(P1)\\Assets\\Scripts\\CameraController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T16:49:50.095Z"
             }
           ]
         }

@@ -1,78 +1,89 @@
 using System.Collections;
 using System.Collections.Generic;
 using NUnit.Framework;
+using UnityEditor.SceneManagement;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.TestTools;
 
 public class Testing
 {
-    // A Test behaves as an ordinary method
-    [Test]
-    public void TestingSimplePasses()
+    [UnityTest]
+    public IEnumerator PlayerMove_Left()
     {
-        // Use the Assert class to test conditions
+        SceneManager.LoadScene("Level 1");
 
+        yield return new WaitForSeconds(1f);
+        GameObject player = GameObject.Find("Player");
+
+        float originalPosition = player.transform.position.x;
+        player.GetComponent<PlayerMovement>().MoveLeft();
+        Assert.IsTrue(player.transform.position.x < originalPosition);
 
     }
 
-    // A UnityTest behaves like a coroutine in Play Mode. In Edit Mode you can use
-    // `yield return null;` to skip a frame.
     [UnityTest]
-    public IEnumerator TestingWithEnumeratorPasses()
+    public IEnumerator PlayerMove_Right()
     {
-        // Use the Assert class to test conditions.
-        // Use yield to skip a frame.
-        yield return null;
+        SceneManager.LoadScene("Level 1");
+
+        yield return new WaitForSeconds(1f);
+        GameObject player = GameObject.Find("Player");
+
+        float originalPosition = player.transform.position.x;
+        player.GetComponent<PlayerMovement>().MoveRight();
+        Assert.IsTrue(player.transform.position.x > originalPosition);
+
     }
 
     [UnityTest]
-    public IEnumerator pickUpItems()
+    public IEnumerator Player_Jumping()
     {
-        
-        yield return null;
-    }
+        SceneManager.LoadScene("Level 1");
 
+        yield return new WaitForSeconds(.3f);
+        GameObject player = GameObject.Find("Player");
 
-    [UnityTest]
-    public IEnumerator nextLevelTest()
-    {
-        
-        yield return null;
-    }
+        float originalPosition = player.transform.position.y;
+        player.GetComponent<Rigidbody2D>().gravityScale = 0.5f;
+        player.GetComponent<PlayerMovement>().PlayerJumping();
 
+        yield return new WaitForSeconds(2f);
 
-    [UnityTest]
-    public IEnumerator doorBehaviourTest()
-    {
-        
-        yield return null;
-    }
-
-
-    [UnityTest]
-    public IEnumerator keyBehaviourTest()
-    {
-        
-        yield return null;
+        Assert.IsTrue(player.transform.position.y > originalPosition);
     }
 
 
     [UnityTest]
-    public IEnumerator playerMoveTest()
+    public IEnumerator NextSceneLoaded_OnCompleteLevel()
     {
-        
-        yield return null;
+        SceneManager.LoadScene("Level 1");
+
+        yield return new WaitForSeconds(1f);
+        GameObject finish = GameObject.Find("Finish");
+
+        finish.GetComponent<Finish>().CompleteLevel();
+
+        yield return new WaitForSeconds(1f); // Adjust the delay as needed
+
+        Assert.IsTrue(SceneManager.GetActiveScene().name == "Level 2");
+
     }
 
     [UnityTest]
-    public IEnumerator scoreManagerTest()
+    public IEnumerator PickUpItems_Test()
     {
-        
-        yield return null;
+        SceneManager.LoadScene("Level 2");
+        yield return new WaitForSeconds(1f);
+
+        GameObject GrapeKey = GameObject.Find("GrapeKey");
+        GameObject player = GameObject.Find("Player");
+
+        player.transform.position = GrapeKey.transform.position;
+        yield return new WaitForSeconds(1f);
+
+        Assert.IsTrue(GrapeKey.GetComponent<KeyBehavior>().isPickedUp);
+
     }
-
-
-
-
 
 }

@@ -11,16 +11,14 @@ public class PlayerMovement : MonoBehaviour
     private Animator anime;
 
     [SerializeField] private LayerMask jumpableGround;
-
     private float directionX = 0f;
-    [SerializeField] private float moveSpeed = 7f;
-    [SerializeField] private float jumpForce = 14f;
+
+    public float moveSpeed = 7f;
+    public float jumpForce = 14f;
 
     private enum MovementState { idle, running, jumping, falling }
 
     [SerializeField] private AudioSource jumpSoundEffect;
-
-
 
     private void Start()
     {
@@ -38,8 +36,23 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetButtonDown("Jump") && IsGrounded())
         {
             jumpSoundEffect.Play();
-            rigidbod.velocity = new Vector3(rigidbod.velocity.x, jumpForce);
+            PlayerJumping();
         }
+
+        // Check for left arrow key press
+        if (Input.GetKeyDown(KeyCode.LeftArrow))
+        {
+            MoveLeft();
+        }
+
+        // Check for right arrow key press
+        if (Input.GetKeyDown(KeyCode.RightArrow))
+        {
+            MoveRight();
+        }
+
+
+
 
         UpdateAnimationState();
     }
@@ -72,6 +85,24 @@ public class PlayerMovement : MonoBehaviour
         }
 
         anime.SetInteger("state", (int)state);
+    }
+
+    public void PlayerJumping()
+    {
+        rigidbod.velocity = new Vector3(rigidbod.velocity.x, jumpForce);
+    }
+
+
+    public void MoveLeft()
+    {
+        // Move the player to the left based on the moveSpeed
+        transform.Translate(Vector3.left * moveSpeed * Time.deltaTime);
+    }
+
+    public void MoveRight()
+    {
+        // Move the player to the right based on the moveSpeed
+        transform.Translate(Vector3.right * moveSpeed * Time.deltaTime);
     }
 
     private bool IsGrounded()
